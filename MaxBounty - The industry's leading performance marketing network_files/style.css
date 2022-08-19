@@ -986,6 +986,12 @@ section.body.current{
     background: RGBA(255,255,255,0.15);
 }
 
+/*=====================================*/
+
+.contact-form {
+    width: 100%;
+}
+
 .contact_choice{
     width:48%;
     margin:5px 10px 5px 0px;
