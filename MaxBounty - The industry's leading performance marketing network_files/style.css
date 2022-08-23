@@ -1097,7 +1097,7 @@ a.close-contact-modal:hover{
 .border-top { border-top: 1px solid #e5e5e5; }
 .border-bottom { border-bottom: 1px solid #e5e5e5; }
 .mb-bg-dark { background-color: #181a1d; }
-.mb-bg-red { background-color: RGBA(224,37,39,1) !important; }
+.mb-bg-red { background-image: linear-gradient(to top right, #0E3A73, #42628C); }
 .mb-green{color: RGBA(0,255,162,1);}
 .mb-bg-grey { background-color: #f9f9f9; }
 .mb-bg-dark-grey { background-color: #f4f4f4; }
@@ -1141,7 +1141,7 @@ a.close-contact-modal:hover{
 }
 .mb-underline::after{
     content: " ";
-    border-bottom:3px solid RGBA(224,37,39,1);
+    border-bottom:3px solid #0E3A73;
     display:block;
     width:100%;
 }
