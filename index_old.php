@@ -2,11 +2,11 @@
 <html class="h-100" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
         <title>DIGI8MEDIA</title>
-        <link rel="stylesheet" href="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/nck8mkt.css">
-        <link rel="stylesheet" href="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/bootstrap.css">
-        <link rel="stylesheet" href="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/font-awesome.css">
-        <link rel="stylesheet" type="text/css" href="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/bootstrap-datetimepicker.css">
-        <link rel="stylesheet" href="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/style.css">
+        <link rel="stylesheet" href="digi8mediaassets/nck8mkt.css">
+        <link rel="stylesheet" href="digi8mediaassets/bootstrap.css">
+        <link rel="stylesheet" href="digi8mediaassets/font-awesome.css">
+        <link rel="stylesheet" type="text/css" href="digi8mediaassets/bootstrap-datetimepicker.css">
+        <link rel="stylesheet" href="digi8mediaassets/style.css">
 
         <link href="./Bridgeway Enterprises Limited_files/css-normalize.css" rel="stylesheet" type="text/css">
         <link href="./Bridgeway Enterprises Limited_files/css-webflow.css" rel="stylesheet" type="text/css">
@@ -19,10 +19,10 @@
         <meta name="facebook-domain-verification" content="yk70at9jycgw89yvd7d0cpa9qu29mm">
         
         
-        <link rel="icon" href="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/images/favicon.png">
+        <link rel="icon" href="digi8mediaassets/images/favicon.png">
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script type="text/javascript" async="" src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/analytics.js"></script><script async="" src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/js"></script>
+        <script type="text/javascript" async="" src="digi8mediaassets/analytics.js"></script><script async="" src="digi8mediaassets/js"></script>
         <script>
          window.dataLayer = window.dataLayer || [];
          function gtag(){dataLayer.push(arguments);}
@@ -35,7 +35,7 @@
         <main class="h-100">
             <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark mb-bg-red">
                 <div class="container">
-                    <a class="navbar-brand" href="#" style="padding:0px"><img class="navbar-brand-logo" alt="13743161 Canada Ltd. DBA: DIGI8MEDIA" src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/digi8media-logo-w.png"></a>
+                    <a class="navbar-brand" href="#" style="padding:0px"><img class="navbar-brand-logo" alt="13743161 Canada Ltd. DBA: DIGI8MEDIA" src="digi8mediaassets/digi8media-logo-w.png"></a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -89,7 +89,7 @@
       </div>
       <div class="col-md-4 p-3 order-md-2 order-sm-1 order-1 text-center">
         <img class="map-tablet-image"
-          src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/map-tablet.png">
+          src="digi8mediaassets/map-tablet.png">
       </div>
     </div>
   </div>
@@ -105,7 +105,7 @@
             <div class="mb-feature">
               <div class="mb-feature-image">
                 <img
-                  src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/feature-software.png">
+                  src="digi8mediaassets/feature-software.png">
               </div>
               <div>
                 <p class="font-weight-bold mb-1">Flexible payment solutions that are always on time and always secure.</p>
@@ -116,7 +116,7 @@
             <div class="mb-feature">
               <div class="mb-feature-image">
                 <img
-                  src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/feature-compliance.png">
+                  src="digi8mediaassets/feature-compliance.png">
               </div>
               <div>
                 <p class="font-weight-bold mb-1">A Management Team with over 25+ years of combined experience in the affiliate marketing business.</p>
@@ -128,7 +128,7 @@
             <div class="mb-feature">
               <div class="mb-feature-image">
                 <img
-                  src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/feature-quality.png">
+                  src="digi8mediaassets/feature-quality.png">
               </div>
               <div>
                 <p class="font-weight-bold mb-1">Parties, socials and meetups for all partners around the world.</p>
@@ -139,7 +139,7 @@
             <div class="mb-feature">
               <div class="mb-feature-image">
                 <img
-                  src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/feature-managers.png">
+                  src="digi8mediaassets/feature-managers.png">
               </div>
               <div>
                 <p class="font-weight-bold mb-1">Exclusive offers that you won’t find anywhere else in the industry!</p>
@@ -151,7 +151,7 @@
             <div class="mb-feature">
               <div class="mb-feature-image">
                 <img
-                  src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/feature-4.png">
+                  src="digi8mediaassets/feature-4.png">
               </div>
               <div>
                 <p class="font-weight-bold mb-1">Worldwide coverage and understanding of offers in Tier 1, 2 and 3 countries.</p>
@@ -162,7 +162,7 @@
             <div class="mb-feature">
               <div class="mb-feature-image">
                 <img
-                  src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/feature-5.png">
+                  src="digi8mediaassets/feature-5.png">
               </div>
               <div>
                 <p class="font-weight-bold mb-1">24/7 support from experienced dedicated managers.</p>
@@ -213,421 +213,6 @@
         </div>
     </div>
 </section>
-
-<div class="modal fade custom-modal" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-lg signup">
-    <div class="modal-edge signup">
-    <div class="modal-content">
-      <div class="modal-body">
-        <div><a href="#" class="close-contact-modal" style="position: absolute; right: 15px; top: 10px;"><i class="fa fa-times"></i></a></div>
-        <div class="spacersmall"></div>
-        <div class="text-center"><i class="fa fa-pencil-square-o fa-2x pwhite"></i></div>
-        <div class="spacersmall"></div>
-          <p class="contact_basic text-center pwhite">Thanks for your interest in 13743161 Canada Ltd. DBA: DIGI8MEDIA. What would you like to <strong>contact us</strong> about?</p>
-
-          <div class="contact_inner contact_form">
-
-              <div class="d-flex justify-content-center flex-wrap contact_basic contact_form_choices text-center">
-                  <input type="button" id="contact_advertiser_button" name="advertiser" value="I am an advertiser and would like to buy leads/sales from MaxBounty" class="contact_choice">
-                  <input type="button" id="contact_affiliate_button" name="affiliate" value="I am an affiliate and have questions before I sign up to MaxBounty" class="contact_choice">                  
-                  <input type="button" id="contact_benefit_button" name="benefit" value="Product / service partnership" class="contact_choice">
-                  <input type="button" id="contact_feedback_button" name="feedback" value="General feedback" class="contact_choice">  
-                  <input type="button" id="contact_abuse_button" name="abuse" value="Report abuse" class="contact_choice">  
-                  <input type="button" id="contact_pr_button" name="pr" value="Public relations" class="contact_choice">
-                  <div class="spacersmall"></div>                  
-              </div>
-              <div class="text-center contact_basic">
-                <div class="spacersmall"></div>  
-                <a href="#" class="close-contact-modal">Cancel</a>
-              </div>
-
-              <div id="contact_affiliate" class="contact_hide " data-cond-option="ctype" data-cond-value="affiliate">
-
-                <hr class="dark contact_basic">
-
-                <h1 class="pwhite text-center">Affiliate Question</h1>
-
-                <p>This is not an application, but a form to send us 
-affiliate related questions. If you're interested in becoming a 
-MaxBounty affiliate, you should fill out the application form on <a class="dark" href="#">this page</a>, otherwise let us know what's up in the field below.</p>
-
-                <div class="spacermedium"></div>
-
-                <form id="form_contact_affiliate" class="aleft" action="#">
-                    <input type="hidden" name="who_contact" id="affiliate_key" value="affiliates">
-                    <input type="hidden" id="affiliate_ident" value="affiliate">
-                  <div class="row">
-                    <div class="col-md-5">
-                      <label for="name">Name</label>
-                      <input class="contact_basic_name" type="text" name="name" id="af_name" placeholder="Required" required=""></div>
-                    <div class="col-md-7">
-                      <label for="company_name">Company Name</label>
-                      <input class="contact_basic_company" type="text" name="company_name" id="af_company_name" placeholder="Required" required="">
-                    </div>
-                  </div>
-                  <br>
-                  <div class="row">
-                    <div class="col-md-7">
-                      <label for="email">E-mail</label>
-                      <input class="contact_basic_email" type="email" name="email" id="af_email" placeholder="Required" required="">
-                    </div>
-                    <div class="col-md-5">
-                      <label for="phone">Phone Number</label>
-                      <input class="contact_basic_phone" type="text" name="phone" id="af_phone" placeholder="Required" required="">
-                    </div>
-                  </div>
-                
-                  <div class="spacermedium"></div>
-
-                  <textarea id="af_message" name="message" placeholder="Write us a message." rows="5" class="required contact_message" required=""></textarea>
-
-                  <div class="spacermedium"></div>
-
-                  <input type="submit" id="affiliate_submit" name="affiliate_submit" value="Submit"> &nbsp;&nbsp;<a href="#" class="close-contact-modal">Cancel</a>
-                </form>
-              </div>
-
-              <div id="contact_advertiser" class="contact_hide " data-cond-option="ctype" data-cond-value="advertiser">
-
-                <hr class="dark contact_basic">
-
-                <h1 class="pwhite text-center">Advertise with MaxBounty</h1>
-
-                <div class="spacermedium"></div>
-
-                <form id="form_contact_advertiser" class="aleft" action="#">
-                  <input type="hidden" name="who_contact" id="advertiser_key" value="merchants">
-                  <input type="hidden" id="advertiser_ident" value="advertiser">
-                  <div class="row">
-                    <div class="col-md-5">
-                      <label for="name">Name</label>
-                      <input class="contact_basic_name" type="text" name="name" id="ad_name" placeholder="Required" required=""></div>
-                    <div class="col-md-7">
-                      <label for="company_name">Company Name</label>
-                      <input class="contact_basic_company" type="text" name="company_name" id="ad_company_name" placeholder="Required" required="">
-                    </div>
-                  </div>
-                  <br>
-                  <div class="row">
-                    <div class="col-md-7">
-                    <label for="email">E-mail</label>
-                    <input class="contact_basic_email" type="email" name="email" id="ad_email" placeholder="Required" required="">
-                    </div>
-                    <div class="col-md-5">
-                    <label for="phone">Phone Number</label>
-                    <input class="contact_basic_phone" type="text" name="phone" id="ad_phone" placeholder="Required" pattern=".{10,}" required="" title="Minimum 10 digits">
-                    </div>
-                  </div>
-                
-                  <div class="spacermedium"></div>
-
-                  <div class="flexbox">
-                    <div style="width:100%;">
-                     <label for="skype_handle">Skype handle</label>
-                     <input type="text" name="skype_handle" id="skype_handle">
-                    </div>
-                  </div>
-                  <br>   
-
-                  <div class="row">
-                    <div class="col-md-5">
-                      <label for="campaign">Campaign Name</label>
-                      <input type="text" name="campaign" id="campaign" placeholder="Required" required="">
-                    </div>
-                    <div class="col-md-7">
-                      <label for="sample_url">Sample Landing Page URL (http://)</label>
-                      <input class="contact_ad_url" type="url" name="sample_url" id="sample_url" placeholder="Required" required="">
-                    </div>
-                  </div>
-                  <br>
-
-                  <div class="flexbox3">
-                    <div class="contact_ad_div_rate">
-                     <label for="rate">Proposed Rate</label>
-                     <input type="text" name="rate" id="rate" placeholder="Required" required="">
-                    </div><br>
-                    <div class="contact_ad_div_type">
-                      <label for="campaign_type">Campaign Type</label>
-                      <select id="ctype" name="campaign_type" required="">
-                        <option value="" selected="selected"> Required
-                        </option><option value="ppl">Pay per lead
-                        </option><option value="pps">Pay per sale
-                        </option><option value="revshare">% of sale
-                        </option><option value="ppc">Pay per call
-                        </option><option value="mobile">Mobile Installs
-                      </option></select>
-                    </div><br>
-                    <div class="contact_ad_div_spend">
-                      <label for="ad_spend">Monthly Budget</label>
-                      <span class="contact_dollar">$</span> <input type="text" name="ad_spend" id="ad_spend" placeholder="Required" style="padding-left: 22px;" required="">
-                    </div>
-                  </div>
-                  <br>
-
-                  <div class="flexbox">
-                    <div style="width:100%;">
-                     <label for="ad_geo">What geographical areas will you be targeting (separate with commas) </label>
-                     <input class="contact_ad_url" type="text" name="ad_geo" id="ad_geo" placeholder="required" required="">
-                    </div>                    
-                  </div>
-                  <br>
-
-                  <div class="flexbox">
-                    <div style="width:100%;">
-                     <label for="receive_traffic">When will you be ready to receive traffic? (yyyy/mm/dd)</label>
-                     <input type="text" name="receive_traffic" id="receive_traffic" class="datepicker">
-                    </div>                    
-                  </div>
-                  <br>                              
-
-                  <div class="row">
-                    <div class="col-md-5">
-                      <label for="tracking_system">What tracking system are you currently using?</label>
-                      <select id="tsystem" name="tracking_system" required="">
-                        <option value="None" selected="selected"> None
-                        </option><option value="Cake"> Cake
-                        </option><option value="HasOffers"> HasOffers
-                        </option><option value="HitPath"> HitPath
-                        </option><option value="In-House"> In-house
-                      </option></select>
-                    </div>
-                    <div class="col-md-5">
-                      <label for="other_network">Is this campaign currently listed on another network?</label>
-                      <select id="listed" name="other_network" required="">
-                        <option value="" selected="selected"> Required
-                        </option><option value="yes">Yes
-                        </option><option value="no">No
-                      </option></select>
-                    </div>
-                  </div>
-                  <br>                  
-
-                  <div class="flexbox">
-                    <div style="width:100%;">
-                      <label for="ad_notes">Campaign details</label>
-                      <textarea id="ad_notes" name="ad_notes" placeholder="Please describe your campaign." class="contact_message"></textarea>
-                    </div>
-                  </div>                  
-
-                  <div class="spacermedium"></div>
-
-                  <input type="submit" id="advertiser_submit" name="advertiser_submit" value="Submit"> &nbsp;&nbsp;<a href="#" class="close-contact-modal">Cancel</a>
-                </form>
-              </div>
-              
-              <div id="contact_benefit" class="contact_hide " data-cond-option="ctype" data-cond-value="benefit">
-
-                <hr class="dark contact_basic">
-
-                <h1 class="pwhite text-center">Let us know about a product / service you think could benefit us!</h1>
-
-                <div class="spacermedium"></div>
-
-                <form id="form_contact_benefit" class="aleft" action="#">
-                  <input type="hidden" name="who_contact" id="benefit_key" value="support">
-                  <input type="hidden" id="benefit_ident" value="benefit">
-                  <div class="row">
-                    <div class="col-md-5">
-                    <label for="name">Name</label>
-                    <input class="contact_basic_name" size="25" type="text" name="name" id="ben_name" placeholder="Required" required=""></div>
-                    <div class="col-md-7">
-                    <label for="company_name">Company Name</label>
-                    <input class="contact_basic_company" size="43" type="text" name="company_name" id="ben_company_name" placeholder="Required" required="">
-                    </div>
-                  </div>
-                  <br>
-                  <div class="row">
-                    <div class="col-md-7">
-                    <label for="email">E-mail</label>
-                    <input class="contact_basic_email" size="39" type="email" name="email" id="ben_email" placeholder="Required" required="">
-                    </div>
-                    <div class="col-md-5">
-                    <label for="phone">Phone Number</label>
-                    <input class="contact_basic_phone" size="28" type="text" name="phone" id="ben_phone" placeholder="Required" required="">
-                    </div>
-                  </div>
-                  <div class="spacermedium"></div>
-                  <label for="benefit_url">What is the URL to the product or service you would like us to consider?</label>
-                  <input class="contact_benefit_url" type="text" name="benefit_url" id="ben_url" placeholder="http://" required="">
-                  <div class="spacermedium"></div>
-                   <label for="benefit_message">Give us some details about the product or service.</label>
-                  <textarea id="ben_message" name="benefit_message" placeholder="Write us a message." cols="70" rows="5" class="required contact_message" required=""></textarea>
-
-                  <div class="spacermedium"></div>
-
-                  <input type="submit" id="benefit_submit" name="benefit_submit" value="Submit"> &nbsp;&nbsp;<a href="#" class="close-contact-modal">Cancel</a>
-                </form>
-
-              </div>
-
-              <div id="contact_feedback" class="contact_hide " data-cond-option="ctype" data-cond-value="feedback"> 
-
-               <hr class="dark contact_basic">
-
-               <h1 class="pwhite text-center">General Feedback</h1>
-
-                <div class="spacermedium"></div>
-
-                <form id="form_contact_feedback" class="aleft" action="#">
-                  <input type="hidden" name="who_contact" id="feedback_key" value="support">
-                  <input type="hidden" id="feedback_ident" value="feedback">
-                  <div class="row">
-                    <div class="col-md-5">
-                    <label for="name">Name</label>
-                    <input class="contact_basic_name" size="25" type="text" name="name" id="feedback_name" placeholder="Required" required=""></div>
-                    <div class="col-md-7">
-                    <label for="company_name">Company Name</label>
-                    <input class="contact_basic_company" size="43" type="text" name="company_name" id="feedback_company_name" placeholder="Required" required="">
-                    </div>
-                  </div>
-                  <br>
-                  <div class="row">
-                    <div class="col-md-7">
-                    <label for="email">E-mail</label>
-                    <input class="contact_basic_email" size="39" type="email" name="email" id="feedback_email" placeholder="Required" required="">
-                    </div>
-                    <div class="col-md-5">
-                    <label for="phone">Phone Number</label>
-                    <input class="contact_basic_phone" size="28" type="text" name="phone" id="feedback_phone" placeholder="Required" required="">
-                    </div>
-                  </div>
-                  <div class="spacermedium"></div>
-
-                  <label for="feedback_message">Give us your feedback, and we'll do our best to help you out!</label>
-                  <textarea id="feedback_message" name="feedback_message" placeholder="Write us a message." cols="70" rows="5" class="required contact_message" required=""></textarea>
-
-                  <div class="spacermedium"></div>
-
-                  <input type="submit" id="feedback_submit" name="feedback_submit" value="Submit"> &nbsp;&nbsp;<a href="#" class="close-contact-modal">Cancel</a>
-                </form>
-              </div>
-
-              <div id="contact_abuse" class="contact_hide " data-cond-option="ctype" data-cond-value="abuse"> 
-
-                <hr class="dark contact_basic">
-
-                <h1 class="pwhite text-center">Report an abuse of service</h1>
-
-                <div class="spacermedium"></div>
-
-                <form id="form_contact_abuse" class="aleft" action="#">
-                  <input type="hidden" name="who_contact" id="abuse_key" value="abuse">
-                  <input type="hidden" id="abuse_ident" value="abuse">
-                  <div class="row">
-                    <div class="col-md-5">
-                    <label for="name">Name</label>
-                    <input class="contact_basic_name" size="25" type="text" name="name" id="abuse_name" placeholder="Required" required=""></div>
-                    <div class="col-md-7">
-                    <label for="company_name">Company Name</label>
-                    <input class="contact_basic_company" size="43" type="text" name="company_name" id="abuse_company_name" placeholder="Required" required="">
-                    </div>
-                  </div>
-                  <br>
-                  <div class="row">
-                    <div class="col-md-7">
-                    <label for="email">E-mail</label>
-                    <input class="contact_basic_email" size="39" type="email" name="email" id="abuse_email" placeholder="Required" required="">
-                    </div>
-                    <div class="col-md-5">
-                    <label for="phone">Phone Number</label>
-                    <input class="contact_basic_phone" size="28" type="text" name="phone" id="abuse_phone" placeholder="Required" required="">
-                    </div>
-                  </div>
-                  <div class="spacermedium"></div>
-
-                  <label for="abuse_message">Please describe the abuse of service. Thank you!</label>
-                  <textarea id="abuse_message" name="abuse_message" placeholder="Write us a message." cols="70" rows="5" class="required contact_message" required=""></textarea>
-
-                  <div class="spacermedium"></div>
-
-                  <input type="submit" id="abuse_submit" name="abuse_submit" value="Submit"> &nbsp;&nbsp;<a href="#" class="close-contact-modal">Cancel</a>
-                </form>
-              </div>
-
-               <div id="contact_pr" class="contact_hide " data-cond-option="ctype" data-cond-value="pr"> 
-
-                <hr class="dark contact_basic">
-
-                <h1 class="pwhite text-center">Public Relations</h1>
-
-                <div class="spacermedium"></div>
-
-                <form id="form_contact_pr" class="aleft" action="#">
-                  <input type="hidden" name="who_contact" id="pr_key" value="support">
-                  <input type="hidden" id="pr_ident" value="pr">
-                  <div class="row">
-                    <div class="col-md-5">
-                    <label for="name">Name</label>
-                    <input class="contact_basic_name" size="25" type="text" name="name" id="pr_name" placeholder="Required" required=""></div>
-                    <div class="col-md-7">
-                    <label for="company_name">Company Name</label>
-                    <input class="contact_basic_company" size="43" type="text" name="company_name" id="pr_company_name" placeholder="Required" required="">
-                    </div>
-                  </div>
-                  <br>
-                  <div class="row">
-                    <div class="col-md-7">
-                    <label for="email">E-mail</label>
-                    <input class="contact_basic_email" size="39" type="email" name="email" id="pr_email" placeholder="Required" required="">
-                    </div>
-                    <div class="col-md-5">
-                    <label for="phone">Phone Number</label>
-                    <input class="contact_basic_phone" size="28" type="text" name="phone" id="pr_phone" placeholder="Required" required="">
-                    </div>
-                  </div>
-                  <div class="spacermedium"></div>
-
-                  <label for="pr_message">How can the PR department help you?</label>
-                  <textarea id="pr_message" name="pr_message" placeholder="Write us a message." cols="70" rows="5" class="required contact_message" required=""></textarea>
-
-                  <div class="spacermedium"></div>
-
-                  <input type="submit" id="pr_submit" name="pr_submit" value="Submit"> &nbsp;&nbsp;<a href="#" class="close-contact-modal">Cancel</a>
-                </form>
-              </div>
-
-          <div class="spacersmall"></div>
-
-        </div>
-      </div>
-    </div>
-  </div>
-  </div>
-</div>
-
-<div class="modal fade" id="successModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-edge">
-    <div class="modal-content text-center">
-      <div class="modal-body">
-        <div class="spacermedium"></div>
-        <i class="fa fa-check-circle fa-2x pgreen"></i>
-        <h3>Thank you for your interest! <strong>We will get back to you</strong> as soon as possible!</h3>        
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-  </div>
-</div>
-
-<!--Help Modal -->
-<div class="modal fade" id="helpModal" role="dialog">
-  <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <b>Help</b>
-      </div>
-      <div class="modal-body">
-         <p id="help_message"></p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
 
 <!--Terms Modal -->
 <div class="modal fade" id="termsModal" role="dialog">
@@ -1580,50 +1165,11 @@ V6Z 1S4<br>
     </div>
   </div>
 </div>
-
-<!--locked out Modal -->
-<div class="modal fade" id="lockoutModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-edge">
-    <div class="modal-content text-center">
-      <div class="modal-body">
-        <div class="spacermedium"></div>
-        <i class="fa  fa-warning fa-2x pred"></i>
-        <h3>You have specified an invalid e-mail or password. You have 
-reached the maximum login attempts and your account is now locked. 
-Please contact your affiliate manager or support@maxbounty.com</h3>
-        <div class="spacersmall"></div>
-        <a href="#" data-dismiss="modal">close</a>
-        <div class="spacersmall"></div>
-      </div>
-    </div>
-  </div>
-  </div>
-</div>
-
-<!--login invalid Modal -->
-<div class="modal fade" id="invalidModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-edge">
-    <div class="modal-content text-center">
-      <div class="modal-body">
-        <div class="spacermedium"></div>
-        <i class="fa  fa-warning fa-2x pred"></i>
-        <h3>You have specified an invalid e-mail or password. Please try again.</h3>
-        <div class="spacersmall"></div>
-        <a href="#" data-dismiss="modal">close</a>
-        <div class="spacersmall"></div>
-      </div>
-    </div>
-  </div>
-  </div>
-</div>
-        
         <section class="footer mb-text-light">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-3 d-flex align-items-center">
-                        <img class="footer-logo max-width-150" src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/digi8media-logob-w.png">
+                        <img class="footer-logo max-width-150" src="digi8mediaassets/digi8media-logob-w.png">
                     </div>
                     <div class="col-sm-3">
                         <div class="footer-links d-flex">
@@ -1652,12 +1198,11 @@ Please contact your affiliate manager or support@maxbounty.com</h3>
           </div>
         </section>
         
-        </main> <script src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/jquery.js"></script>
-<script src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/popper.js"></script>
-<script src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/bootstrap.js"></script>
-<script src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/js.js"></script>
-<script src="MaxBounty%20-%20The%20industry's%20leading%20performance%20marketing%20network_files/bootstrap-datetimepicker.js"></script>
-<script src="https://smtpjs.com/v3/smtp.js"></script>
+        </main> <script src="digi8mediaassets/jquery.js"></script>
+<script src="digi8mediaassets/popper.js"></script>
+<script src="digi8mediaassets/bootstrap.js"></script>
+<script src="digi8mediaassets/js.js"></script>
+<script src="digi8mediaassets/bootstrap-datetimepicker.js"></script>
 <script>
   //Get Referrer link from browser
   $(document).ready(function() {
@@ -1692,20 +1237,18 @@ Please contact your affiliate manager or support@maxbounty.com</h3>
 
     $("#contact-submit-btn").click(function (e) {
       e.preventDefault();
-      var fullName = $("#full_name").val();
-      var email = $("#email").val();
-      var message = $("#message").val();
-      Email.send({
-        Host: "smtp.elasticemail.com",
-        Username: "smtp@digi8media.net",
-        Password: "BDA69B227173FF1C0EB27E320CC88E3789EE",
-        To: 'hello@digi8media.net',
-        From: email,
-        Subject: "",
-        Body: message
-      }).then(
-        message => alert(message)
-      );
+      $.ajax({
+          url: 'sendEmail.php',
+          method: 'POST',
+          dataType: 'json',
+          data: {
+            fullName = $("#full_name").val(),
+            email = $("#email").val(),
+            message = $("#message").val()
+          }, success: function (response) {
+            console.log(response);
+          }
+      });
     });
   });
 </script>
