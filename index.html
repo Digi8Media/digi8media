@@ -206,10 +206,10 @@
         <div class="max-width-750 text-center m-auto">
           <p>Become a partner and lets do something great together</p>
         </div>
-        <div class="max-width-750 text-center m-auto p-4">
+        <!-- <div class="max-width-750 text-center m-auto p-4">
           <h1>hello@digi8media.net</h1>
-        </div>
-        <!-- <div class="row">
+        </div> -->
+        <div class="row">
           <div class="form-block w-form">
             <form id="fs-frm" accept-charset="utf-8">
               <fieldset id="fs-frm-inputs">
@@ -231,14 +231,8 @@
               </fieldset>
               <input class="submit-button w-button" id="contact-submit-btn" type="submit" value="Submit">
             </form>
-            <div class="w-form-done">
-              <div>Thank you! Your submission has been received!</div>
-            </div>
-            <div class="w-form-fail">
-              <div>Oops! Something went wrong while submitting the form.</div>
-            </div>
           </div>
-        </div> -->
+        </div>
       </div>
     </section>
 
@@ -2218,23 +2212,23 @@
         }, 2000);
       });
 
-      // $("#contact-submit-btn").click(function (e) {
-      //   e.preventDefault();
-      //   var fullName = $("#full_name").val();
-      //   var email = $("#email").val();
-      //   var message = $("#message").val();
-      //   Email.send({
-      //     Host: "smtp.elasticemail.com",
-      //     Username: "smtp@digi8media.net",
-      //     Password: "BDA69B227173FF1C0EB27E320CC88E3789EE",
-      //     To: 'hello@digi8media.net',
-      //     From: email,
-      //     Subject: "",
-      //     Body: message
-      //   }).then(
-      //     message => alert(message)
-      //   );
-      // });
+      $("#contact-submit-btn").click(function (e) {
+        e.preventDefault();
+        var fullName = $("#full_name").val();
+        var email = $("#email").val();
+        var message = $("#message").val();
+        Email.send({
+          Host: "smtp.elasticemail.com",
+          Username: "smtp@digi8media.net",
+          Password: "BDA69B227173FF1C0EB27E320CC88E3789EE",
+          To: 'hello@digi8media.net',
+          From: email,
+          Subject: "",
+          Body: message
+        }).then(
+          message => alert(message)
+        );
+      });
     });
   </script>
   <!-- Login Error -->
