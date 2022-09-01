@@ -2179,7 +2179,6 @@
   <script src="digi8mediaassets/js.js"></script>
   <script
     src="digi8mediaassets/bootstrap-datetimepicker.js"></script>
-  <script src="https://smtpjs.com/v3/smtp.js"></script>
   <script>
     //Get Referrer link from browser
     $(document).ready(function () {
@@ -2214,20 +2213,18 @@
 
       $("#contact-submit-btn").click(function (e) {
         e.preventDefault();
-        var fullName = $("#full_name").val();
-        var email = $("#email").val();
-        var message = $("#message").val();
-        Email.send({
-          Host: "smtp.elasticemail.com",
-          Username: "smtp@digi8media.net",
-          Password: "BDA69B227173FF1C0EB27E320CC88E3789EE",
-          To: 'hello@digi8media.net',
-          From: email,
-          Subject: "",
-          Body: message
-        }).then(
-          message => alert(message)
-        );
+        $.ajax({
+            url: 'sendEmail.php',
+            method: 'POST',
+            dataType: 'json',
+            data: {
+              fullName = $("#full_name").val(),
+              email = $("#email").val(),
+              message = $("#message").val()
+            }, success: function (response) {
+              console.log(response);
+            }
+        });
       });
     });
   </script>
