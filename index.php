@@ -229,7 +229,7 @@
                       Conditions</a></span>
                 </label>
               </fieldset>
-              <input class="submit-button w-button" id="contact-submit-btn" type="submit" value="Submit">
+              <button class="submit-button w-button" type="button" onclick="sendEmail()" value="Submit">Submit</button>
             </form>
           </div>
         </div>
@@ -2210,28 +2210,35 @@
           scrollTop: $("#contactus").offset().top
         }, 2000);
       });
-
-      $("#contact-submit-btn").click(function (e) {
-        e.preventDefault();
-        $.ajax({
-            url: 'sendEmail.php',
-            method: 'POST',
-            dataType: 'json',
-            data: {
-              fullName = $("#full_name").val(),
-              email = $("#email").val(),
-              message = $("#message").val()
-            }, success: function (response) {
-              console.log(response);
-            }
-        });
-      });
     });
   </script>
-  <!-- Login Error -->
 
+  <script type="text/javascript">
+    function sendEmail() {
+      $.ajax({
+        url: 'sendEmail.php',
+        method: 'POST',
+        dataType: 'json',
+        data: {
+          full_name: $("#full_name").val(),
+          email: $("#email").val(),
+          message: $("#message").val(),
+        }, success: function (response) {
+          console.log(response);
+        }
+      });
+    }
 
+    function isNotEmpty(caller) {
+      if (caller.val() == "") {
+        caller.css('border', '1px solid red');
+        return false;
+      } else
+        caller.css('border', '');
 
+      return true;
+    }
+  </script>
 
   <div class="datetimepicker datetimepicker-dropdown-bottom-right dropdown-menu" style="left: 0px; z-index: 100009;">
     <div class="datetimepicker-minutes" style="display: none;">
