@@ -206,10 +206,10 @@
         <div class="max-width-750 text-center m-auto">
           <p>Become a partner and lets do something great together</p>
         </div>
-        <!-- <div class="max-width-750 text-center m-auto p-4">
+        <div class="max-width-750 text-center m-auto p-4">
           <h1>hello@digi8media.net</h1>
-        </div> -->
-        <div class="row">
+        </div>
+<!--         <div class="row">
           <div class="form-block w-form">
             <form id="fs-frm" accept-charset="utf-8">
               <fieldset id="fs-frm-inputs">
@@ -232,7 +232,7 @@
               <button class="submit-button w-button" type="button" onclick="sendEmail()" value="Submit">Submit</button>
             </form>
           </div>
-        </div>
+        </div> -->
       </div>
     </section>
 
